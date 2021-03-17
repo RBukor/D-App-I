@@ -6,6 +6,21 @@ vezes esse número aparece no vetor. Sempre imprimir na tela os processos do
 vetor.
 
  */
+
+/*  
+**************************
+
+
+
+
+>> PROF, TENTEI DE VÁRIAS MANEIRAS E NÃO CONSEGUI FAZER COM QUE O PROGRAMA GRAVASSE E EXIBISSE QUANTAS VEZES O ULTIMO VALOR DIGITADO SE REPETE DENTRO DO VETOR <<
+DEIXEI UM EXEMPLO DA MINHA ULTIMA TENTATIVA FRUSTRADA !!
+
+
+
+
+*************************
+*/
 package Desafios;
 
 import java.util.ArrayList;
